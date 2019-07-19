@@ -2,7 +2,7 @@
 document.getElementById('loan-form').addEventListener('submit', function(e){
   // Hide results
   document.getElementById('results').style.display = 'none';
-  
+
   // Show loader
   document.getElementById('loading').style.display = 'block';
 
@@ -50,7 +50,7 @@ function calculateResults(){
 function showError(error){
   // Hide results
   document.getElementById('results').style.display = 'none';
-  
+
   // Hide loader
   document.getElementById('loading').style.display = 'none';
 
@@ -71,7 +71,7 @@ function showError(error){
   card.insertBefore(errorDiv, heading);
 
   // Clear error after 3 seconds
-  setTimeout(clearError, 3000);
+  setTimeout(clearError, 4000);
 }
 
 // Clear error
