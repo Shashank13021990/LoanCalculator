@@ -1,19 +1,16 @@
 {
-  "name": "LoanCalculator",
+  "name": "loanCalculator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://shashank13021990.github.io/loanCalculator",
   "scripts": {
     "deploy": "gh-pages -d dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shashank13021990/LoanCalculator.git"
   },
   "keywords": [],
   "author": "Shashank",
   "license": "MIT",
-  "homepage": "https://shashank13021990.github.io/LoanCalculator",
+
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
