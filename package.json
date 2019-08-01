@@ -13,9 +13,6 @@
   "keywords": [],
   "author": "Shashank",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Shashank13021990/LoanCalculator/issues"
-  },
   "homepage": "https://shashank13021990.github.io/LoanCalculator",
   "dependencies": {
     "gh-pages": "^2.1.0"
